@@ -1,3 +1,5 @@
+
+
 # Feminine | Submission of Team HackDivas
 <b>Members:
 Anjali Patle, Sakshi Bhandarkar and Priyanshi Sharma</b>
@@ -178,3 +180,14 @@ The model we've made has the following attributes:
 * Sakshi Bhandarkar
 
 ### More power to women!
+
+Hey I am evaluting this code for my class project ! 
+---
+
+## 📝 Student Evaluation – Sprint 1
+
+**Name:** Ashley Lewis  
+**Course:** Healthcare Informatics / IS Project  
+**Purpose:** This forked version of the project is being evaluated for possible reuse or redevelopment as part of a course assignment.  
+**Status:** Code review in progress  
+**Notes:** README and project roadmap will be updated with observations and next steps.
