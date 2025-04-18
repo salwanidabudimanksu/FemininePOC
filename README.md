@@ -184,7 +184,7 @@ The model we've made has the following attributes:
 Hey I am evaluting this code for my class project ! 
 ---
 
-## 📝 Student Evaluation – Sprint 1
+## Student Evaluation – Sprint 1
 
 **Name:** Ashley Lewis  
 **Course:** Healthcare Informatics / IS Project  
