@@ -26,6 +26,9 @@
     <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
  </head>
 <body>
+    
+<h1>Welcome to the Feminine Health Platform</h1>
+<p>New updates coming soon!</p>
   
   <section class="menu cid-s48OLK6784" once="menu" id="menu1-h">
     
