@@ -20,3 +20,16 @@ Evaluate the "Feminine" codebase and determine whether to reuse, modify, or rebu
 - Chloe
 - Salwa
 
+# Sprint 2 Tasks
+
+## Planned Tasks
+- [x] Add heading and sentence to homepage (index.php)
+- [ ] Add navigation bar
+- [ ] Create login page
+- [ ] Create registration page
+- [ ] Link all pages together
+- [ ] Add basic CSS styling
+
+## Completed Tasks
+- [x] Added heading and sentence to homepage
+
