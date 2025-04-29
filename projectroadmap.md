@@ -22,14 +22,20 @@ Evaluate the "Feminine" codebase and determine whether to reuse, modify, or rebu
 
 # Sprint 2 Tasks
 
+# Sprint 2 Tasks
+
 ## Planned Tasks
 - [x] Add heading and sentence to homepage (index.php)
-- [ ] Add navigation bar
-- [ ] Create login page
-- [ ] Create registration page
-- [ ] Link all pages together
-- [ ] Add basic CSS styling
+- [x] Add About Us section to homepage
+- [x] Add greeting Python script
+- [x] Add farewell Python script
+- [x] Add age check Python program
+- [x] Add repeat message using loop
 
 ## Completed Tasks
 - [x] Added heading and sentence to homepage
-
+- [x] Added About Us section to homepage
+- [x] Created greeting.py script
+- [x] Created farewell.py script
+- [x] Created age_check.py program
+- [x] Created repeat_message.py program
