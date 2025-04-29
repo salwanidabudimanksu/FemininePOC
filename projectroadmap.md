@@ -18,7 +18,7 @@ Evaluate the "Feminine" codebase and determine whether to reuse, modify, or rebu
 ## Team Members
 - Ashley Lewis
 - Chloe
-- Salwa
+- Salwa Budiman
 
 # Sprint 2 Tasks
 
