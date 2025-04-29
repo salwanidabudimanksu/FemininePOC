@@ -1,14 +1,15 @@
 
 
-# Feminine | Submission of Team HackDivas
-<b>Members:
-Anjali Patle, Sakshi Bhandarkar and Priyanshi Sharma</b>
+# This is a basic Python script displaying information about the Feminine project.
 
-<p align="center">
-    <img src="./assets/images/feminine.png" alt="Logo" width="200">
-  </a>
+# Printing the names of the team members
+print("Members: Anjali Patle, Sakshi Bhandarkar, and Priyanshi Sharma")
 
-Feminine is an initiative through which we want to build an all-in-one women health platform, which diagnoses women specific health issues and help raise awareness for its treatment and management. With a lot of fear of the stigma associated with reproductive health services, women often avoid making use of such services. This stigma imposes a great deal of mental stress, fear, and depression on patients and causes delays in the diagnosis and treatment of their conditions. Through Feminine, we aim at solving this barrier for women to connect with doctor and try to reduce the errors and hassle in the diagnosis of the ailments.
+# Printing the description of the project
+print("Feminine is an initiative to build an all-in-one women health platform.")
+print("It diagnoses women-specific health issues and raises awareness for treatment and management.")
+print("Many women avoid reproductive health services because of fear and stigma, leading to mental stress and delays in diagnosis.")
+print("Feminine aims to break this barrier, making it easier for women to connect with doctors and reducing errors in diagnosis.")
 
 ## Features
 * <b>Breast Cancer Detection tool :</b> Detects the presence of Metastatic Tissue and Invasive Ductal Carcinoma using two AI Models
