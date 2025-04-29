@@ -7,7 +7,7 @@ Evaluate the "Feminine" codebase and determine whether to reuse, modify, or rebu
 
 - [x] Fork Feminine repo into KSU GitHub org – Ashley
 - [x] Add Sprint 1 section to README.md – Ashley
-- [ ] Review login.php and signup.php functionality – Salwa
+- [X] Review login.php and signup.php functionality – Salwa
 - [ ] Try running the project locally – Chloe
 - [ ] Note any issues or missing files – Chloe
 - [ ] Document missing setup instructions in README – Ashley
